@@ -17,7 +17,7 @@ TVをあまり見ることがなく、短時間で放送中の商品の概要を
 お客様からの問い合わせ対応時、売り場作成の参考にご利用頂けます。
 
 ## 設計書
-
+https://app.diagrams.net/#G1nw9lH5MxlctqeKz_TfGKa91YxcBjkA6-
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/14GzgG3__t7-sQ1mkGoR4cE_sVbhD9nS9Nz2T5NYaok4/edit#gid=0

@@ -19,6 +19,8 @@ TVをあまり見ることがなく、短時間で放送中の商品の概要を
 ## 設計書
 https://app.diagrams.net/#G1nw9lH5MxlctqeKz_TfGKa91YxcBjkA6-
 
+https://docs.google.com/spreadsheets/d/1afMENcC9Y2USEVHsUgMmn-lA1gu6Q9-3g103b-BTMEc/edit#gid=856357510
+
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/14GzgG3__t7-sQ1mkGoR4cE_sVbhD9nS9Nz2T5NYaok4/edit#gid=0
 
